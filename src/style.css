@@ -1,0 +1,20 @@
+header{background:black;
+    
+}
+
+body{ background:black;
+    align-content: center;
+    padding: 5%;
+}
+h2{color: darkgoldenrod;
+}
+main{background: gray;
+
+}
+.logotitle{
+align-content: center;
+margin-left: 25%;
+}
+.card{
+    width: 100%;
+}
