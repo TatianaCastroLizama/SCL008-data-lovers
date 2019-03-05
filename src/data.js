@@ -10,6 +10,7 @@ const filterData = (data, condition) => {
   return filter;
 }
 
+
 window.filterData = filterData;
 
 
