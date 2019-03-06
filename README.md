@@ -1,74 +1,50 @@
 # Data Lovers
 
-## Índice
+## Pagina de noticias del juego Steam
 
-* [Preámbulo](#preámbu
-* [Descripción](#resumen-del-proyecto)
-* [Consideraciones generales](#consideraciones-generales)
-* [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
-* [Parte obligatoria](#parte-obligatoria)
-* [Parte opcional](#parte-opcional-hacker-edition)
-* [Consideraciones técnicas](#consideraciones-técnicas)
-* [Primeros pasos](#primeros-pasos)
-* [Contenido de referencia](#contenido-de-referencia)
+bienvenidos a steam la pagina de noticias del juego team fortress 2 
+Este es uno de los juegos de acción online más popular, Team Fortress 2, publica constantemente actualizaciones gratuitas: nuevos modos de juego, mapas, equipamiento y lo que es más importante, sombreros. Nueve clases diferentes proporcionan un enorme abanico de habilidades tácticas y personalidades y se prestan a una gran variedad de habilidades del jugador.
+Esta es una pagina creada para usuarios interesados en noticias referentes al juego .Que busca principalmente entregar a los usuarios información referente a actualizaciones,lanzamientos y eventos .
+
 
 
 
 ***
 
-## Preámbulo
+## Informacion sobre el proceso
 
-Según un [estudio de IBM](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=WRL12345USEN),
-el 90% de la data que existe hoy ha sido creada durante los últimos dos años.
-Cada día generamos 2.5 trillones de bytes de datos, una cifra sin precedentes.
+Información sobre el proceso
+Luego de tomar la decisión respecto a cual seria nuestra data el primer paso fue la realización de un prototipo de baja fidelidad que nació de la imaginación del equipo como el reflejo de lo que podría ser una buena pagina de noticias referentes al juego ademas realizamos encuestas en linea y mostramos el prototipo a jugadores o potenciales jugadores .por otro lado recibimos feedback en todas las acciones antes mencionadas lo que nos condujo a la modificación y mejora del mismo es importante señalar que realizamos con posterioridad un prototipo de alta fidelidad en figma el que fue modificado dada la complejidad que presento a la hora de dar funcionalidad dejando dando como resultado una pagina mas sencilla que consta de una imagen inicial con un icono asociado al juego seleccionamos un color  sobrio que sea agradable a la vista y un un filtrado sencillo de los titulares de cada noticia que presentaremos al chiclear en el nos conduce a una nueva pagina donde se nos mostrara la noticia ya que linqueada.
 
-No obstante, los datos por sí mismos son de poca utilidad. Para que esas
-grandes cantidades de datos se conviertan en **información** fácil de leer para
-los usuarios, necesitamos entender y procesar estos datos. Una manera simple de
-hacerlo es creando _interfaces_ y _visualizaciones_.
+## Quienes son los usuarios
 
-En la siguiente imagen, podrás ver cómo con la data que que se ve en la parte
-izquierda se puede construir una interfaz amigable y entendible por el usuario.
 
-![json-interfaz](https://lh4.googleusercontent.com/Tn-RPXS26pVvOTdUzRT1KVaJ-_QbFs9SpcGLxSPE43fgbHaXtFgMUInuDt7kV41DkT1j8Tt29V0LxQW7SMtC6digOIhfTXSBKdwI08wUwhD3RAqlwy0hjfmhZ2BFe91mtmCSEqysfgk)
+Quiénes son los usuarios
+Luego de una encuesta realizada detectamos que los usuarios de la pagina son jugadores habituales quienes buscan tener información permanente sobre lanzamientos,actualizaciones y eventos por otro lado también están aquellas personas que al no ser jugadores podrían considerarse como potenciales jugadores del juego lo que los convierte en posibles usuarios de nuestra pagina a la hora querer obtener información de las noticias que contribuirán a la toma de decisiones a la hora de jugar ya que en nuestra pagina encontraran las respuestas necesarias para estar informados en todos las áreas del juego.
 
-\* Puedes ver el datalle de la data en este [link](https://gist.github.com/lalogf/dd4aa3017a9f8aa8f90dfbca382c4dc9#file-student-json)
-y la interfaz construida en este [link](https://app.talento.laboratoria.la/profile/HFOoMpOreBU2psCcjjLg5O2EWEv2).
 
-## Resumen del proyecto
 
-En este proyecto **construirás una _página web_ para visualizar un
-_conjunto (set) de datos_** que se adecúe a lo que descubras que tu usuario
-necesita.
 
-Esta vez te proponemos una serie de datos de diferentes _temáticas_ para que
-explores y decidas con qué temática te interesa trabajar. Hemos elegido
-específicamente estos sets de datos porque creemos que se adecúan bien a esta
-etapa de tu aprendizaje.
 
-Una vez que definas tu área de interés, entiende quién es tu usuario y qué
-necesita saber o ver exactamente; luego podrás construir la interfaz que le
-ayude a interactuar y entender mejor esos datos.
 
-Estos son datos que te proponemos:
 
-* Indicadores de desarrollo del Banco Mundial de algunos países (Brasil, Chile, 
-  México y Perú). Estos datos incluyen indicadores demográficos, económicos y 
-  comerciales.
-* [Pokémon](src/data/pokemon/pokemon.json):
-  En este set encontrarás una lista con los 151 Pokémon de la región de Kanto,
-  junto con sus respectivas estadísticas usadas en el juego [Pokémon GO](https://pokemongolive.com).
-* [Steam noticias](src/data/steam/steam.json):
-  Lista noticias relacionadas a los videojuegos presentes en la
-  plataforma de [Steam](https://store.steampowered.com/).
-* [League of Legends - Challenger leaderboard](src/data/lol/lol.json):
-  Este set de datos muestra la lista de jugadores en una liga del
-  juego League of Legends (LoL), puedes revisar la documentación de su API en
-  este [link](https://developer.riotgames.com/api-methods/).
-* [Personas heridas por medio de transporte en EEUU](src/data/injuries/injuries.json).
-  Este set nos muestra el número de personas heridas en accidentes de
-  transporte, con data anual desde 1960 y categorizada por tipo de transporte
-  (aire, barco, automóvil, moto, bicileta, ...).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+).
 
 Como entregable final tendrás una página web que permita **visualizar la data,
 filtrarla, ordenarla y hacer algún calculo agregado**. Como aclaración,

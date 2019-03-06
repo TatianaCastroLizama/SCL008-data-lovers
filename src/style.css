@@ -1,19 +1,24 @@
-header{background:black;
+header{background:rgba(0, 0, 0, 0.5);
 color: whitesmoke;
 font-size: 25px;
     
 }
 
-body{ background-image: url("https://wallpaperplay.com/walls/full/0/4/f/92233.jpg");
-    align-content: center;
-    padding: 5%;
+body{ background-image:url(imagen/fondo.jpg);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;/*que cubra todo*/
 }
 h3{color: whitesmoke;
     font-size: 22px;
 }
+.allContainer{
+    align-content: center;
+}
 main{
     
-   padding: 5% 25% 25% 5%;
+   padding: 5% 0% 0% 5%;
 }
 .logotitle{
 align-content: center;
@@ -26,6 +31,19 @@ margin-left: 25%;
     display:block;
 }
 #root{
-    background: black;
+    background: #826c5c78;
     color: whitesmoke;
+    padding: 5%;
+}
+.logotitle{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#root a{
+    color:#e6c8c8;
+    }
+#root p{
+    color:#e6c8c8;
 }

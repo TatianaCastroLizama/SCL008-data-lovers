@@ -6,7 +6,7 @@ const showData = (data) => {
   // nombre y foto
   data.forEach(element => {
     // data[i]
-    container.innerHTML += `<p>${element.title}</p>`
+    container.innerHTML += `<p>${element.feedlabel}</p>`
   })
 }
 
@@ -25,7 +25,7 @@ document.getElementById('feedlabel').addEventListener('change', () => {
   //result.forEach(element => {
     for (let i=0; i<result.length; i++){
     container.innerHTML += `<p>
-    <a href="${data[i].url} target:"_blank"">${result[i].title}</a></p>`
+    <a href="${data[i].url}"target:"_blank">${result[i].title}</a></p>`
 
   }
   
