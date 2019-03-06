@@ -7,9 +7,9 @@ const filterData = (data, condition) => {
   let filter = data.filter(element => {
     return element.feedlabel.includes(condition) === true;
   })
-  
   return filter;
 }
+
 
 window.filterData = filterData;
 

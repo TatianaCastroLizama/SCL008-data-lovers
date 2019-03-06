@@ -4,16 +4,24 @@ require('../src/data');
 require('./data.spec.js');
 
 
-describe('example', () => {
+describe('filtrar feedlabel', () => {
+  const data =[{
+    feedlabel: "TF2 Blog"
+
+  },
+  {
+    feedlabel: "Product Update"
+  },
+  {
+    feedlabel: "PC Gamer"
+  }
+]
   
   it('debería ser una función', () => {
-    assert.equal(typeof example, 'function');
+    assert.deepEqual(typeof filterData, 'function');
   });
 
-  it('debería retornar "example"', () => {
-    assert.equal(example(), 'example');
+  it('debería retornar "PC Gamer"', () => {
+    assert.deepEqual(window.filterData(data,"PC Gamer"), ([{feedlabel:"PC Gamer"}]));
   });
 })
-
-
-
