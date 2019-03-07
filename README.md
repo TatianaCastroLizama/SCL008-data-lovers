@@ -19,9 +19,10 @@ Luego de tomar la decisión respecto a cual seria nuestra data el primer paso fu
 
 ![prototipo_baja.png](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/img/prototipo_baja.png)
 
-![graficos.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/tree/master/img/graficos.jpg)
+![graficos.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/img/graficos.jpg)
 
-![grafico2.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/tree/master/img/grafico2.jpg)
+
+![grafico2.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/img/grafico2.jpg)
 
 
 ## Quienes son los usuarios
