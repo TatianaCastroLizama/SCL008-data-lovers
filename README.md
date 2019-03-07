@@ -8,7 +8,7 @@ Esta es una pagina creada para usuarios interesados en noticias referentes al ju
 
 ![steam](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/img/steam.jpg) 
 
-![graficos.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/tree/master/img/graficos.jpg)]
+
 
 ***
 
@@ -19,6 +19,7 @@ Luego de tomar la decisión respecto a cual seria nuestra data el primer paso fu
 
 ![prototipo_baja.png](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/img/prototipo_baja.png)
 
+![graficos.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/tree/master/img/graficos.jpg)]
 
 ## Quienes son los usuarios
 
