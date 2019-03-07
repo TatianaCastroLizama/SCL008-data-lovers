@@ -4,6 +4,7 @@ require('../src/data');
 require('./data.spec.js');
 
 
+
 describe('filtrar feedlabel', () => {
   const data =[{
     feedlabel: "TF2 Blog"
@@ -16,12 +17,13 @@ describe('filtrar feedlabel', () => {
     feedlabel: "PC Gamer"
   }
 ]
-  
+
   it('debería ser una función', () => {
     assert.deepEqual(typeof filterData, 'function');
   });
 
   it('debería retornar "PC Gamer"', () => {
     assert.deepEqual(window.filterData(data,"PC Gamer"), ([{feedlabel:"PC Gamer"}]));
+
   });
 })

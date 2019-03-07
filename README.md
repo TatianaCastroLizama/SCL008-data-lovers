@@ -6,7 +6,7 @@ bienvenidos a steam la pagina de noticias del juego team fortress 2
 Este es uno de los juegos de acción online más popular, Team Fortress 2, publica constantemente actualizaciones gratuitas: nuevos modos de juego, mapas, equipamiento y lo que es más importante, sombreros. Nueve clases diferentes proporcionan un enorme abanico de habilidades tácticas y personalidades y se prestan a una gran variedad de habilidades del jugador.
 Esta es una pagina creada para usuarios interesados en noticias referentes al juego .Que busca principalmente entregar a los usuarios información referente a actualizaciones,lanzamientos y eventos .
 
-
+![steam](img\steam.jpg) 
 
 
 ***
@@ -14,7 +14,10 @@ Esta es una pagina creada para usuarios interesados en noticias referentes al ju
 ## Informacion sobre el proceso
 
 Información sobre el proceso
-Luego de tomar la decisión respecto a cual seria nuestra data el primer paso fue la realización de un prototipo de baja fidelidad que nació de la imaginación del equipo como el reflejo de lo que podría ser una buena pagina de noticias referentes al juego ademas realizamos encuestas en linea y mostramos el prototipo a jugadores o potenciales jugadores .por otro lado recibimos feedback en todas las acciones antes mencionadas lo que nos condujo a la modificación y mejora del mismo es importante señalar que realizamos con posterioridad un prototipo de alta fidelidad en figma el que fue modificado dada la complejidad que presento a la hora de dar funcionalidad dejando dando como resultado una pagina mas sencilla que consta de una imagen inicial con un icono asociado al juego seleccionamos un color  sobrio que sea agradable a la vista y un un filtrado sencillo de los titulares de cada noticia que presentaremos al chiclear en el nos conduce a una nueva pagina donde se nos mostrara la noticia ya que linqueada.
+Luego de tomar la decisión respecto a cual seria nuestra data el primer paso fue la realización de un prototipo de baja fidelidad que nació de la imaginación del equipo como el reflejo de lo que podría ser una buena pagina de noticias referentes al juego ademas realizamos encuestas en linea y mostramos el prototipo a jugadores o potenciales jugadores .por otro lado recibimos feedback en todas las acciones antes mencionadas lo que nos condujo a la modificación y mejora del mismo es importante señalar que realizamos con posterioridad un prototipo de alta fidelidad en figma el que fue modificado dada la complejidad que presento a la hora de dar funcionalidad dejando dando como resultado una pagina mas sencilla que consta de una imagen inicial con un icono asociado al juego seleccionamos un color  sobrio que sea agradable a la vista y un un filtrado sencillo de los titulares de cada noticia que presentaremos al clickear en el nos conduce a una nueva pagina donde se nos mostrara la noticia ya que linqueada.
+
+![prototipo_baja.png](img\prototipo_baja.png) 
+
 
 ## Quienes son los usuarios
 
