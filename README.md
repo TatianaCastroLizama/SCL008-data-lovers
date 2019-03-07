@@ -16,7 +16,7 @@ Esta es una pagina creada para usuarios interesados en noticias referentes al ju
 Información sobre el proceso
 Luego de tomar la decisión respecto a cual seria nuestra data el primer paso fue la realización de un prototipo de baja fidelidad que nació de la imaginación del equipo como el reflejo de lo que podría ser una buena pagina de noticias referentes al juego ademas realizamos encuestas en linea y mostramos el prototipo a jugadores o potenciales jugadores .por otro lado recibimos feedback en todas las acciones antes mencionadas lo que nos condujo a la modificación y mejora del mismo es importante señalar que realizamos con posterioridad un prototipo de alta fidelidad en figma el que fue modificado dada la complejidad que presento a la hora de dar funcionalidad dejando dando como resultado una pagina mas sencilla que consta de una imagen inicial con un icono asociado al juego seleccionamos un color  sobrio que sea agradable a la vista y un un filtrado sencillo de los titulares de cada noticia que presentaremos al clickear en el nos conduce a una nueva pagina donde se nos mostrara la noticia ya que linqueada.
 
-![prototipo_baja.png] (https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/img/prototipo_baja.png)
+![prototipo_baja.png](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/img/prototipo_baja.png)
 
 
 ## Quienes son los usuarios
