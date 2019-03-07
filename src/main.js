@@ -25,7 +25,7 @@ document.getElementById('feedlabel').addEventListener('change', () => {
     for (let i=0; i<result.length; i++){
 
     container.innerHTML += `<p>
-    <a href="${data[i].url} "target:"_blank">${result[i].title}</a></p>`
+    <a href="${data[i].url}" target="_blank">${result[i].title}</a></p>`
 
     
 
