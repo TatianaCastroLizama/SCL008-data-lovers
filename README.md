@@ -6,7 +6,7 @@ bienvenidos a steam la pagina de noticias del juego team fortress 2
 Este es uno de los juegos de acción online más popular, Team Fortress 2, publica constantemente actualizaciones gratuitas: nuevos modos de juego, mapas, equipamiento y lo que es más importante, sombreros. Nueve clases diferentes proporcionan un enorme abanico de habilidades tácticas y personalidades y se prestan a una gran variedad de habilidades del jugador.
 Esta es una pagina creada para usuarios interesados en noticias referentes al juego .Que busca principalmente entregar a los usuarios información referente a actualizaciones,lanzamientos y eventos .
 
-![steam](img\steam.jpg) 
+![steam](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/img/steam.jpg) 
 
 
 ***
