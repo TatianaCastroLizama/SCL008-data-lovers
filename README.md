@@ -6,7 +6,7 @@ bienvenidos a steam la pagina de noticias del juego team fortress 2
 Este es uno de los juegos de acción online más popular, Team Fortress 2, publica constantemente actualizaciones gratuitas: nuevos modos de juego, mapas, equipamiento y lo que es más importante, sombreros. Nueve clases diferentes proporcionan un enorme abanico de habilidades tácticas y personalidades y se prestan a una gran variedad de habilidades del jugador.
 Esta es una pagina creada para usuarios interesados en noticias referentes al juego .Que busca principalmente entregar a los usuarios información referente a actualizaciones,lanzamientos y eventos .
 
-
+![web.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/src/imagen/web.jpg)
 ## Informacion sobre el proceso
 
 Información sobre el proceso
@@ -14,7 +14,7 @@ Luego de tomar la decisión respecto a cual sería nuestra data el primer paso f
 
 
 
-![graficos.jpg]https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/src/imagen/graficos.jpg)
+![graficos.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/src/imagen/graficos.jpg)
 
 
 ![grafico2.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/src/imagen/grafico2.jpg)
@@ -52,6 +52,7 @@ me gustaría leer noticias filtradas por fuentes.
 #### Prototipo de alta fidelidad
 gráfica correspondiente a cada set de datos que 
 
+![figma.jpg]((https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/src/imagen/figma.jpg))
 #### Testeos de usabilidad
 
 Durante el reto deberás realizar tests de usabilidad con distintos usuarios, y
