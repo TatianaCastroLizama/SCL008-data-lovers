@@ -60,3 +60,4 @@ en base a los resultados de esos tests, deberás iterar tus diseños. Cuéntanos
 qué problemas de usabilidad detectaste a través de los tests y cómo los
 mejoraste en tu propuesta final.
 
+https://www.useloom.com/share/ffb8ee2b17ec432884c67a11b271c7d5
