@@ -9,7 +9,18 @@ const filterData = (data, condition) => {
 
   })
   return filterFeedLabel;
+};
+
+const containerTwo = document.getElementById("contenedor datos");
+let title = () =>{
+ for(let i=0; i<data.title; i++){
+  if (data.Object.value(title)) {
+    containerTwo += title + "." + i + " = " + title[i] + "\n";
 }
+}
+return containerTwo;
+ }
+
 //const sortData = (data, sortBy, sortOrder) => {
  // let ordertitle = data.sort((a, b) => {
    // return a[sortBy].localeCompare(b[sortBy]);
