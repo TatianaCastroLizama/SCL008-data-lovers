@@ -50,7 +50,7 @@ me gustaría leer noticias filtradas por fuentes.
 ![prototipo_baja.png](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/src/imagen/prototipo_baja.png)
 
 #### Prototipo de alta fidelidad
-gráfica correspondiente a cada set de datos que 
+gráfica correspondiente a cada set de datos 
 
 ![figma.jpg]((https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/src/imagen/figma.jpg))
 #### Testeos de usabilidad
@@ -61,3 +61,7 @@ qué problemas de usabilidad detectaste a través de los tests y cómo los
 mejoraste en tu propuesta final.
 
 https://www.useloom.com/share/ffb8ee2b17ec432884c67a11b271c7d5
+
+### Planificación
+
+https://trello.com/b/nDfAImFN/proyecto-2-data-lovers

@@ -14,11 +14,11 @@ document.getElementById('feedlabel').addEventListener('change', () => {
   }
 });
 
-const button_enter = document.getElementById("btn-secondary");
-button_enter.addEventListener('click', () => {
-  let title = document.getElementById("title").Object.value;
-  containerTwo.innerHTML = `<p>${title}</p>`
-});
+//const button_enter = document.getElementById("btn-secondary");
+//button_enter.addEventListener('click', () => {
+ // let title = document.getElementById("title").Object.value;
+  //containerTwo.innerHTML = `<p>${title}</p>`
+//});
 
 //const showData = (data) => {
 //btn-secondary.addEventListener('click', () => {
