@@ -3,7 +3,7 @@ color: whitesmoke;
 font-size: 25px;
 }
 body{ background-image:url(imagen/fondo.jpg);
-   background-position: center center;
+   background-position: center;
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size: cover;/*que cubra todo*/
@@ -16,7 +16,7 @@ h3{color: whitesmoke;
 .allContainer{
     align-content: center;
 }
-.logotitle{
+.logotitle, #feedlabel{
 align-content: center;
 margin-left: 25%;
 }    
@@ -42,11 +42,4 @@ margin-left: 25%;
 #root a, #root p{
     color:#e6c8c8;
     }
-#feedlabel{
-    align-content: center;
-    margin-left: 30%; 
-}
-#cards{
-    align-content: center;
-    margin-left: 25%;
-}
+
