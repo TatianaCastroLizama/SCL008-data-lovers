@@ -52,7 +52,7 @@ me gustaría leer noticias filtradas por fuentes.
 #### Prototipo de alta fidelidad
 gráfica correspondiente a cada set de datos 
 
-![figma.jpg]((https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/src/imagen/figma.jpg))
+![figma.jpg](https://github.com/TatianaCastroLizama/SCL008-data-lovers/blob/master/src/imagen/figma.jpg)
 #### Testeos de usabilidad
 
 Durante el reto deberás realizar tests de usabilidad con distintos usuarios, y
