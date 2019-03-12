@@ -13,7 +13,7 @@ h3{color: whitesmoke;
     align-content: center;
     margin-left: 30%;
 }
-.allContainer{
+.allContainer, .buttonContainer{
     align-content: center;
 }
 .logotitle, #feedlabel{
