@@ -54,5 +54,5 @@ document.getElementById('feedlabel').addEventListener('change', () => {
 
 
 
-window.onload = showData(data);
+//window.onload = showData(data);
 
