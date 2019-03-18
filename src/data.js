@@ -35,22 +35,22 @@ const filterData = (data, condition) => {
 
 
 // logica para ordenar por nombre
-function sortByName(a, b) {
-  if (a.name < b.name)
-    return -1;
-  if (a.name > b.name)
-    return 1;
+//function sortByName(a, b) {
+//  if (a.name < b.name)
+//    return -1;
+//  if (a.name > b.name)
+//    return 1;
   
-}
+//}
 
 // logica para ordenar por Id
-function sortById(a, b) {
-  if (a.id < b.id)
-    return -1;
-  if (a.id > b.id)
-    return 1;
+//function sortById(a, b) {
+//  if (a.id < b.id)
+//    return -1;
+//  if (a.id > b.id)
+//    return 1;
 
-}
+//}
 //const sortData = (data, sortBy, sortOrder) => {
 // let ordertitle = data.sort((a, b) => {
 // return a[sortBy].localeCompare(b[sortBy]);
