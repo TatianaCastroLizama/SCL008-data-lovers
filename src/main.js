@@ -14,15 +14,15 @@ document.getElementById('feedlabel').addEventListener('change', () => {
   }
 });
 
-titles.addEventListener('change', () => {
+document.addEventListener('change', () => {
   let option = titles.value;
   let ordering = window.sortData(data, 'name', option); 
   containerOrder.innerHTML = '';
    ordering.forEach(element => { 
     containerOrder.innerHTML += `<p>
     <a href="${data[i].url}" target="_blank">${result[i].title}</a></p>`
-
-
+   }
+   )});
 
 //  const dataTitle = document.getElementById('title');
   //const selectType = document.getElementById("type");
@@ -87,5 +87,5 @@ titles.addEventListener('change', () => {
 
 
 
-//window.onload = filterData(data);
-
+//window.onload = filterData(data)
+//window.onload = sortData(data)

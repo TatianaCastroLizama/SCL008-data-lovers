@@ -10,7 +10,7 @@ const filterData = (data, condition) => {
   })
   return filterFeedLabel;
 };
-
+const orderTitle = (data) =>{
 for (let i=0; i<data.length; i++){
   return data[i].title 
 }
@@ -20,11 +20,12 @@ for (let i=0; i<data.length; i++){
   titles.push(data[i].title)
 }
 titles.sort
-
+}
 const titles =  title.sort((a,b) =>{
   return a.localecompare (b);
 })
-return data;
+return orderTitle;
+
 
 //const sortData = (data, condition) => {
 
@@ -78,7 +79,7 @@ return data;
 
 //window.sortData = sortData;
 
-window.filterData = filterData;
+//window.filterData = filterData;
 
 
 
