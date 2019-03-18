@@ -10,6 +10,47 @@ const filterData = (data, condition) => {
   })
   return filterFeedLabel;
 };
+
+//const sortData = (data, condition) => {
+
+  //let sorted = [];
+
+ // if (condition === 'az') {
+ //   sorted = data.sort(sortByTitle);
+ // }
+ // if (condition === 'za') {
+ //   sorted = data.sort(sortByTitle).reverse();
+ // }
+//  if (condition === 'idasc') {
+//    sorted = data.sort(sortById);
+//  }
+//  if (condition === 'iddesc') {
+//    sorted = data.sort(sortById).reverse();
+//  }
+
+//  return sorted.Object.values;
+//};
+
+//window.sortData = sortData;
+
+
+// logica para ordenar por nombre
+function sortByName(a, b) {
+  if (a.name < b.name)
+    return -1;
+  if (a.name > b.name)
+    return 1;
+  
+}
+
+// logica para ordenar por Id
+function sortById(a, b) {
+  if (a.id < b.id)
+    return -1;
+  if (a.id > b.id)
+    return 1;
+
+}
 //const sortData = (data, sortBy, sortOrder) => {
 // let ordertitle = data.sort((a, b) => {
 // return a[sortBy].localeCompare(b[sortBy]);

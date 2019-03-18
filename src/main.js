@@ -10,9 +10,33 @@ document.getElementById('feedlabel').addEventListener('change', () => {
   for (let i = 0; i < result.length; i++) {
 
     container.innerHTML += `<p>
-    <a href="${data[i].url}" target="_blank">${result[i].title}</a></p>`
+    <a href="${data[i].url}" target="_blank">${result[i].contents}</a></p>`
   }
 });
+
+
+//  const dataTitle = document.getElementById('title');
+  //const selectType = document.getElementById("type");
+  //const selectOrder = document.getElementById('order');
+
+  
+
+//  showTitles(data);
+
+//  btn-secondary.addEventListener('click', () => {
+
+  //  let condition = selectTitle.Object.values;
+  //  let filtered = window.filterType(data, condition);
+
+   // showTitles(filtered);
+ // });
+
+  //btn-secondary.addEventListener('click', () => {
+
+    //let sort_condition = selectOrder.Object.value;
+  //  let sorted = window.sortData(data, sort_condition);
+ // });
+
 
 //const button_enter = document.getElementById("btn-secondary");
 //button_enter.addEventListener('click', () => {
