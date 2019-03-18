@@ -11,6 +11,21 @@ const filterData = (data, condition) => {
   return filterFeedLabel;
 };
 
+for (let i=0; i<data.length; i++){
+  return data[i].title 
+}
+let titles = []
+
+for (let i=0; i<data.length; i++){
+  titles.push(data[i].title)
+}
+titles.sort
+
+const titles =  title.sort((a,b) =>{
+  return a.localecompare (b);
+})
+return data;
+
 //const sortData = (data, condition) => {
 
   //let sorted = [];
