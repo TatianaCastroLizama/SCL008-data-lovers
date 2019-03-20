@@ -10,21 +10,30 @@ const filterData = (data, condition) => {
   })
   return filterFeedLabel;
 };
-const orderTitle = (data) =>{
-for (let i=0; i<data.length; i++){
-  return data[i].title 
-}
-let titles = []
 
-for (let i=0; i<data.length; i++){
-  titles.push(data[i].title)
+const computeStats = (calculo) => {
+  let porcentaje = (calculo*100)/10;
+  return porcentaje;
 }
-titles.sort
-}
-const titles =  title.sort((a,b) =>{
-  return a.localecompare (b);
-})
-return orderTitle;
+
+window.filterData = filterData;
+window.computeStats = computeStats;
+
+//const orderTitle = (data) =>{
+//for (let i=0; i<data.length; i++){
+//  return data[i].title 
+//}
+//let titles = []
+
+//for (let i=0; i<data.length; i++){
+//  titles.push(data[i].title)
+//}
+//titles.sort
+//}
+//const titles =  title.sort((a,b) =>{
+//  return a.localecompare (b);
+//})
+//return orderTitle;
 
 
 //const sortData = (data, condition) => {
@@ -79,7 +88,7 @@ return orderTitle;
 
 //window.sortData = sortData;
 
-//window.filterData = filterData;
+
 
 
 

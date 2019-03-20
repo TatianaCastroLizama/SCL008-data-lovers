@@ -11,18 +11,18 @@ document.getElementById('feedlabel').addEventListener('change', () => {
 
     container.innerHTML += `<p>
     <a href="${data[i].url}" target="_blank">${result[i].contents}</a></p>`
-  }
-});
+  };
 
-document.addEventListener('change', () => {
-  let option = titles.value;
-  let ordering = window.sortData(data, 'name', option); 
-  containerOrder.innerHTML = '';
-   ordering.forEach(element => { 
-    containerOrder.innerHTML += `<p>
-    <a href="${data[i].url}" target="_blank">${result[i].title}</a></p>`
-   }
-   )});
+  let calculo = result.lenght
+  let result2 = window.compustats(claculo);
+  
+  let calcular = document.getElementById('percentage');
+  calcular.innerHTML =` <p> ${result2} % de Títulos de Noticias </p>`
+  });
+
+
+  window.onload = filterData(data)
+
 
 //  const dataTitle = document.getElementById('title');
   //const selectType = document.getElementById("type");
@@ -87,5 +87,5 @@ document.addEventListener('change', () => {
 
 
 
-//window.onload = filterData(data)
+//
 //window.onload = sortData(data)
